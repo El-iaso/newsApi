@@ -1,19 +1,19 @@
 {
   "news" : [
     {
-      "id" : 1
+      "id" : 1,
       "title" : "news 1",
       "postedAt" : "2020-6-1T00:00:00Z",
       "content" " "asdaksdjaskdjaskjdajsd"
     },
     {
-      "id" : 2
+      "id" : 2,
       "title" : "news 2",
       "postedAt" : "2020-6-1T04:00:00Z",
       "content" " "afsdfdsg er23523423"
     },
     {
-      "id" : 3
+      "id" : 3,
       "title" : "news 3",
       "postedAt" : "2020-6-1T00:10:40Z",
       "content" " "asdaksdjr23rfsdffaskdjaskjdajsd"
